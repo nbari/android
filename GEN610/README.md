@@ -9,3 +9,5 @@ Devide_model:
 Build number:
 
     Linux version 3.4.67 (lyl@elink103) (gcc version 4.7 (GCC)) #1 SMP PREEMPT Mon Sep 21 14:47.33 CST 2015
+
+ALPS GEN610 (mz606)
